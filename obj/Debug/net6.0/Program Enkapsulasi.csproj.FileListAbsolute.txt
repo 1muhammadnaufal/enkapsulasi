@@ -1,0 +1,15 @@
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\bin\Debug\net6.0\Program Enkapsulasi.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\bin\Debug\net6.0\Program Enkapsulasi.deps.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\bin\Debug\net6.0\Program Enkapsulasi.runtimeconfig.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\bin\Debug\net6.0\Program Enkapsulasi.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\bin\Debug\net6.0\Program Enkapsulasi.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.csproj.AssemblyReference.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.AssemblyInfoInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.AssemblyInfo.cs
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\refint\Program Enkapsulasi.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\Program Enkapsulasi.genruntimeconfig.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu6\Program Enkapsulasi\obj\Debug\net6.0\ref\Program Enkapsulasi.dll
